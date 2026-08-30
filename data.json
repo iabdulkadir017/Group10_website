@@ -1,0 +1,131 @@
+{
+  "department": {
+    "name": "Department of Computer Engineering",
+    "faculty": "Faculty of Engineering",
+    "university": "Ahmadu Bello University, Zaria",
+    "address": "Samaru Main Campus, Zaria, Nigeria",
+    "email": "comengg@abu.edu.ng"
+  },
+  "focusAreas": [
+    "Information/Computer Technology and Systems",
+    "Network and Security",
+    "Artificial Intelligence",
+    "Control and Intelligent Systems",
+    "Embedded Systems",
+    "Image Processing and Computer Vision"
+  ],
+  "undergraduateSpecializations": [
+    "Computer Systems and Networks",
+    "Artificial Intelligence",
+    "Control and Intelligent Systems"
+  ],
+  "programmes": [
+    { "code": "BENG", "name": "B.Eng. Computer Engineering", "level": "Undergraduate", "duration": "Five years", "page": "beng.html" },
+    { "code": "PGD", "name": "PGD Computer Engineering", "level": "Postgraduate", "page": "pgd.html" },
+    { "code": "MSC", "name": "M.Sc. Computer Engineering", "level": "Postgraduate", "page": "msc.html" },
+    { "code": "PHD", "name": "Ph.D. Computer Engineering", "level": "Postgraduate", "page": "phd.html" }
+  ],
+  "programmeOutcomes": [
+    { "code": "PO1", "title": "Engineering Knowledge" },
+    { "code": "PO2", "title": "Problem Analysis" },
+    { "code": "PO3", "title": "Design/Development of Solutions" },
+    { "code": "PO4", "title": "Investigation" },
+    { "code": "PO5", "title": "Modern Tool Usage" },
+    { "code": "PO6", "title": "The Engineer and Society" },
+    { "code": "PO7", "title": "Environment and Sustainability" },
+    { "code": "PO8", "title": "Ethics" },
+    { "code": "PO9", "title": "Individual and Team Work" },
+    { "code": "PO10", "title": "Communication" },
+    { "code": "PO11", "title": "Project Management" },
+    { "code": "PO12", "title": "Lifelong Learning" }
+  ],
+  "programmeEducationalObjectives": [
+    { "code": "PEO1", "title": "Engineering Practice" },
+    { "code": "PEO2", "title": "Life Long Learning" },
+    { "code": "PEO3", "title": "Innovation & Design" },
+    { "code": "PEO4", "title": "Professionalism & Ethics" },
+    { "code": "PEO5", "title": "Societal Impact & Entrepreneurship" }
+  ],
+  "researchGroups": [
+    { "acronym": "ARCSG", "name": "AI, Robotics and Control Systems Group" },
+    { "acronym": "NSG", "name": "Network and Security Group" },
+    { "acronym": "ESADG", "name": "Embedded Systems and Applications Development Group" },
+    { "acronym": "PICVG", "name": "Image Processing and Computer Vision Group" }
+  ],
+  "leadership": {
+    "currentHOD": {
+      "name": "Engr. Dr. Basira Yahaya",
+      "title": "Head of Department",
+      "photo": "assets/images/leadership/hod-current-basira-yahaya.jpg"
+    },
+    "formerHODs": [
+      { "name": "Engr. Prof. E. A. Adedokun", "photo": "assets/images/leadership/former-hod-e-a-adedokun.jpg" },
+      { "name": "Engr. Prof. M. B. Muazu", "photo": "assets/images/leadership/former-hod-m-b-muazu.jpg" }
+    ]
+  },
+  "staff": {
+    "academic": [
+      { "name": "Prof. M. B. Muazu", "rank": "Professor", "specialization": "Computational Intelligence/Control Systems" },
+      { "name": "Dr. Emmanuel Adewale ADEDOKUN", "rank": "Reader (Ext Assessment to Prof)", "specialization": "Computing/Networks" },
+      { "name": "Dr. Tajuddeen Humble SIKIRU", "rank": "Senior Lecturer (Ext Assessment to Reader)", "specialization": "Control Systems/Renewable Energy" },
+      { "name": "Dr. Yusuf Abubakar SHAABAN", "rank": "Senior Lecturer (Ext Assessment to Reader)", "specialization": "Control Systems/Intelligent Systems" },
+      { "name": "Dr. Habeeb BELLO-SALAU", "rank": "Senior Lecturer", "specialization": "Image Processing/Communication Networks" },
+      { "name": "Dr. Ime Jarlath UMOH", "rank": "Senior Lecturer", "specialization": "Embedded Systems/Network-on-Chip" },
+      { "name": "Dr. Mohammed Bashir ABDULRAZAQ", "rank": "Senior Lecturer", "specialization": "Computing/Digital Systems" },
+      { "name": "Dr. Emmanuel OKAFOR", "rank": "Senior Lecturer", "specialization": "Control systems and Artificial Intelligence" },
+      { "name": "Dr. Basira YAHAYA", "rank": "Senior Lecturer", "specialization": "Networks/Computing" },
+      { "name": "Dr. Bashir Olaniyi SADIQ", "rank": "Senior Lecturer", "specialization": "Networks/Image Processing" },
+      { "name": "Dr. Yusuf IBRAHIM", "rank": "Lecturer I", "specialization": "Machine Learning/Computer Vision" },
+      { "name": "Dr. Zainab Muktar ABUBAKAR", "rank": "Lecturer I", "specialization": "Networks/Computing" },
+      { "name": "Dr. Zaharuddeen HARUNA", "rank": "Lecturer II", "specialization": "Robotics/Intelligent Systems" },
+      { "name": "Mr. Abubakar UMAR", "rank": "Lecturer II", "specialization": "Control Systems/Robotics" },
+      { "name": "Dr. Ore-ofe AJAYI", "rank": "Lecturer II", "specialization": "Control Systems/Intelligent Systems" },
+      { "name": "Engr. A. D. Adekale", "rank": "Lecturer II", "specialization": "Networks (Automation & Programmability)/Computing & Security" },
+      { "name": "Mrs. R. F. Adebiyi", "rank": "Lecturer II", "specialization": "Information Processing" },
+      { "name": "Mrs. N. S. Usman", "rank": "Lecturer II", "specialization": "Control systems/Mechatronics" },
+      { "name": "Mr. Yusuf ABDULRAZAQ", "rank": "Lecturer II", "specialization": "Artificial Intelligence" },
+      { "name": "Dr. Suleiman GARBA", "rank": "Reader (Secondment, DoR-2022)", "specialization": "Communication Networks/Computational Intelligence" },
+      { "name": "Mr. Abdullahi MOHAMMED", "rank": "Lecturer I (Study Leave - Ph.D UK, DoR-2022)", "specialization": "Machine Learning/Control Systems" },
+      { "name": "Mr. Shehu Mohammed YUSUF", "rank": "Lecturer I", "specialization": "Image Processing/Machine Learning/NLP" },
+      { "name": "Mr. Ashraf Ibrahim Umar", "rank": "Lecturer II (Study Leave - Ph.D US, DoR-2022)", "specialization": "Computing/Networks" }
+    ],
+    "technical": [
+      { "name": "Tukur Lawal", "title": "Chief Technologist" },
+      { "name": "Mohammed Buhari Malami", "title": "Principal Technical Officer II" },
+      { "name": "Abdulaziz Kabiru", "title": "Principal Technical Officer II" },
+      { "name": "Aliyu Elayo", "title": "Senior Technical Assistant" }
+    ],
+    "administrative": [
+      { "name": "Mama Nduaka" },
+      { "name": "Tukur Abdullahi" },
+      { "name": "Hassan Ibrahim" }
+    ]
+  },
+  "news": [
+    { "title": "Demonstration News Item 1", "note": "Sample News Item — for interface demonstration purposes." },
+    { "title": "Demonstration News Item 2", "note": "Sample News Item — for interface demonstration purposes." },
+    { "title": "Demonstration News Item 3", "note": "Sample News Item — for interface demonstration purposes." }
+  ],
+  "events": [
+    { "title": "Demonstration Event", "category": "Upcoming Events", "note": "For interface demonstration purposes." },
+    { "title": "Demonstration Seminar", "category": "Seminars", "note": "For interface demonstration purposes." },
+    { "title": "Demonstration Workshop/Conference", "category": "Workshops & Conferences", "note": "For interface demonstration purposes." },
+    { "title": "Demonstration Past Event", "category": "Past Events", "note": "For interface demonstration purposes." }
+  ],
+  "buildingLayout": [
+    { "floor": "Ground Floor", "use": "Laboratories" },
+    { "floor": "1st Floor", "use": "300 Level, 400 Level and 500 Level Lecture Halls" },
+    { "floor": "2nd Floor", "use": "Departmental Library and Staff Offices" },
+    { "floor": "3rd Floor", "use": "Postgraduate Lecture Hall" }
+  ],
+  "facilities": [
+    { "name": "Concept-to-Product Laboratory", "type": "Laboratory", "floor": "Ground Floor", "image": "assets/images/laboratories/concept-to-product-lab.jpg" },
+    { "name": "C2P Tech Hub", "type": "Laboratory", "floor": "Ground Floor", "image": "assets/images/laboratories/c2p-tech-hub.jpg" },
+    { "name": "Digital Electronics and Microprocessor Laboratory", "type": "Laboratory", "floor": "Ground Floor", "image": "assets/images/laboratories/digital-electronics-microprocessor-lab.jpg" },
+    { "name": "300 Level Lecture Hall", "type": "Lecture Hall", "floor": "1st Floor" },
+    { "name": "400 Level Lecture Hall", "type": "Lecture Hall", "floor": "1st Floor" },
+    { "name": "500 Level Lecture Hall (Smart Classroom)", "type": "Lecture Hall", "floor": "1st Floor", "image": "assets/images/facilities/smart-classroom-lecture-hall.jpg" },
+    { "name": "Departmental Library", "type": "Library", "floor": "2nd Floor" },
+    { "name": "Postgraduate Lecture Hall", "type": "Lecture Hall", "floor": "3rd Floor" }
+  ]
+}
